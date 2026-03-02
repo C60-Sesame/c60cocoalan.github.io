@@ -1,0 +1,5 @@
+
+    body {
+        background-image: url('image/backgroundtile.jpg'); /* Specify the path to your image */
+        background-repeat: repeat; 
+    }
